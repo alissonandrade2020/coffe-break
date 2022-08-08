@@ -11,7 +11,7 @@ enum PaymentMethods {
   credit = "credit",
   debit = "debit",
   money = "money",
-  pixmoney = "pix",
+  pixMoney = "pix",
 
 }
 
