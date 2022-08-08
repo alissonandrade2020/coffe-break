@@ -17,7 +17,7 @@ export const paymentMethods = {
     label: "Dinheiro",
     icon: <Money size={16} />,
   },
-  pixMoney: {
+  pix: {
     label: "Pix",
     icon: <DeviceMobile size={16} />,
   },
