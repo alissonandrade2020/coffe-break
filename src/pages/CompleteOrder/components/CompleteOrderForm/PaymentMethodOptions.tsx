@@ -1,5 +1,5 @@
 import { PaymentMethodOptionsContainer } from "./styles";
-import { CreditCard, Money, Bank } from "phosphor-react";
+import { CreditCard, Money, Bank, DeviceMobile } from "phosphor-react";
 import { PaymentMethodInput } from "../PaymentMethodInput";
 import { useFormContext } from "react-hook-form";
 import { RegularText } from "../../../../components/Typography";
@@ -19,7 +19,7 @@ export const paymentMethods = {
   },
   pixmoney: {
     label: "Pix",
-    icon: <Money size={16} />,
+    icon: <DeviceMobile size={16} />,
   },
 };
 
