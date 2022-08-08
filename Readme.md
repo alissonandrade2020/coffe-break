@@ -20,8 +20,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/jrxr/coffee-delivery.git
-$ cd coffee-delivery
+$ git clone https://github.com/alissonandrade2020/coffe-break
+$ cdcoffe-break
 ```
 
 Para iniciá-lo, siga os passos abaixo:
@@ -48,4 +48,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](License.md) para
 
 ---
 
-Feito com 💜 by Agacy Júnior 💻
+Feito com 💜 by Alisson de Andrade Araújo 💻
