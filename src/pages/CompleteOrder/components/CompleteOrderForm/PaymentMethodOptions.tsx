@@ -17,6 +17,10 @@ export const paymentMethods = {
     label: "Dinheiro",
     icon: <Money size={16} />,
   },
+  pixmoney: {
+    label: "Pix",
+    icon: <Money size={16} />,
+  },
 };
 
 export function PaymentMethodOptions() {

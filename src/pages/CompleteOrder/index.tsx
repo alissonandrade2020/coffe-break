@@ -11,6 +11,8 @@ enum PaymentMethods {
   credit = "credit",
   debit = "debit",
   money = "money",
+  pixmoney = "pix",
+
 }
 
 const confirmOrderFormValidationSchema = zod.object({
