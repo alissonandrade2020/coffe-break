@@ -16,11 +16,6 @@ export function ConfirmationSection() {
 
   return (
     <ConfirmationSectionContainer>
-           {cartItems.length !== 0 ? (
-              cartItems.map((cart) => <CartItem key={cart.id} cart={cart} />)
-            ) : (
-              <RegularText size="s">Nenhum Café no carrinho ! </RegularText>
-            )}
       <div>
         <RegularText size="s">Total de itens</RegularText>
         <RegularText>R$ {formattedItemsTotal}</RegularText>
